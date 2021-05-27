@@ -1,5 +1,5 @@
 body{
-  background-image: url(https://oir.mobi/uploads/posts/2021-03/1616979882_41-p-stalnoi-fon-42.jpg);
+  background-image: url(https://cdn.cloudflare.steamstatic.com/steam/apps/304930/ss_db70f87c3635d930580b1365101952a72a14bd4e.1920x1080.jpg?t=1613683996);
 }
 li{
   display: inline-block;
@@ -15,34 +15,34 @@ a{
   color: black
 }
 a:hover{
-  background-color: #0DEB09;
-  border: 1px solid #194718;
+  background-color: #194718;
+  border: 1px solid #266B24;
   border-radius:  10px;
-  font-size: 31px;
+  font-size: 32px;
   padding: 5px 5px;
   text-decoration: none;
   color: black
 }
 .posts{
   background-color: #266B24;
-  border: 1px solid #000000;
+  border: 1px solid #029400;
   border-radius:  60px;
   font-size: 30px;
   padding: 10px 10px;
   text-decoration: none;
   color: black
-  line="center"
+  
 }
 .button{
   background-color: #0DEB09;
-  border: 1px solid #194718;
+  border: 5px solid #194718;
   border-radius:  20px;
-  font-size: 30px;
-  padding: 10px 800px;
+  font-size: 15px;
+  padding: 10px 700px;
   text-decoration: none;
   color: black
 }
 h1{
-  font-size: 25px;
-  
+  font-size: 20px;
+
 }
