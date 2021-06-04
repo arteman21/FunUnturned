@@ -18,7 +18,7 @@ a:hover{
   background-color: #194718;
   border: 1px solid #266B24;
   border-radius:  10px;
-  font-size: 32px;
+  font-size: 30px;
   padding: 5px 5px;
   text-decoration: none;
   color: black
@@ -31,7 +31,7 @@ a:hover{
   padding: 10px 10px;
   text-decoration: none;
   color: black
-  
+
 }
 .button{
   background-color: #0DEB09;

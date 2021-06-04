@@ -1,0 +1,48 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzcUhzhDGl_Fdr-hHF9a4ReBb0JVTWpgOpeyHvpmzRICBzQP1yYxFXhL4WFdblw0n9yM&usqp=CAU);
+}
+li{
+  display: inline-block;
+  padding: 10px 100px;
+}
+a{
+  background-color: #029400;
+  border: 1px solid #194718;
+  border-radius:  10px;
+  font-size: 30px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: black
+}
+a:hover{
+  background-color: #194718;
+  border: 1px solid #266B24;
+  border-radius:  10px;
+  font-size: 30px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color: black
+}
+.posts{
+  background-color: #266B24;
+  border: 1px solid #029400;
+  border-radius:  60px;
+  font-size: 30px;
+  padding: 10px 10px;
+  text-decoration: none;
+  color: black
+
+}
+.button{
+  background-color: #0DEB09;
+  border: 5px solid #194718;
+  border-radius:  20px;
+  font-size: 15px;
+  padding: 10px 700px;
+  text-decoration: none;
+  color: black
+}
+h1{
+  font-size: 20px;
+
+}
